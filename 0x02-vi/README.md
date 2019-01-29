@@ -1,0 +1,1 @@
+Insering, Cutting, Pasting, undoing, exiting, Beginning of the line, End of the line command of vi editor
